@@ -13,14 +13,14 @@
 
 
 <h1 align="center">
-  <img width="750" style="border-radius: 10px" height="auto" alt="NLW" title="#IceCar" src="public/Images/logo-2.jpg - 1920c1080.png" />
+  <img width="750" style="border-radius: 10px" height="auto" alt="NLW" title="#IceCar" src="public/Images/logo-2.jpg" />
 </h1>
    
 </h1>
 <p align="center">Aplicativo para Oficina Mecanica da Cidade de Marilia </p>
 
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="MoveIt" title="#MoveIt" src="public/Images/f9382db8-7854-47e7-838b-7fae89ec2304.jpg" />
+  <img width="500" style="border-radius: 10px" height="auto" alt="Oficina" title="#Oficina" src="public/Images/f9382db8-7854-47e7-838b-7fae89ec2304.jpg" />
 </h1>
 
 
