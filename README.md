@@ -11,11 +11,6 @@
 ![GitHub forks](https://img.shields.io/github/license/CaioSilveiraTelles/NLW.Move-it)
 
 
-
-<h1 align="center">
-  <img width="750" style="border-radius: 10px" height="auto" alt="IceCar" title="#IceCar" src="public/images/logo-2.jpg" />
-</h1>
-   
 </h1>
 <p align="center">Aplicativo para Oficina Mecanica da Cidade de Marilia </p>
 
