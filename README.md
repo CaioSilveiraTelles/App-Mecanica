@@ -47,7 +47,7 @@ The following tools were used in the construction of the project:
 ```
 # Clone repository
 
-$ git clone hhttps://github.com/CaioSilveiraTelles/NLW.Move-it.git
+$ git clone https://github.com/CaioSilveiraTelles/App-Mecanica.git
 ```
 
 ```
