@@ -105,7 +105,7 @@ const MobileNavbar = () => {
 
     return (
         <MobileNavStyle>
-            <MobileNavLogo href="/"><img src="./images/logo-hires.png" alt="" /></MobileNavLogo>
+            <MobileNavLogo href="/"><img src="./images/logo-2.png" alt="" /></MobileNavLogo>
             <MobileNavIcon close={isMenuOpen} onClick={() => setMenuOpen(!isMenuOpen)}>
                 <div></div>
                 <div></div>
